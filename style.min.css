@@ -1,0 +1,1 @@
+*{box-sizing:border-box}body{margin:0}:root{--colNums: 10}.container{background-color:#ccc;border:4px solid violet;display:flex;justify-content:center}.elem{background-color:#afafaf;border:2px solid blue;width:calc(100%/--colNums);display:flex;justify-content:center}/*# sourceMappingURL=style.min.css.map */
